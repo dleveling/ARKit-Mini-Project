@@ -1,0 +1,6 @@
+framework module Pods_PlaneDetectionAR {
+  umbrella header "Pods-PlaneDetectionAR-umbrella.h"
+
+  export *
+  module * { export * }
+}
